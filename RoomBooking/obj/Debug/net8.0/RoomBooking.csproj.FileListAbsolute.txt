@@ -1,0 +1,14 @@
+X:\IV курс\МДК.02.02 ИСРПО\RoomBooking\RoomBooking\bin\Debug\net8.0\RoomBooking.exe
+X:\IV курс\МДК.02.02 ИСРПО\RoomBooking\RoomBooking\bin\Debug\net8.0\RoomBooking.deps.json
+X:\IV курс\МДК.02.02 ИСРПО\RoomBooking\RoomBooking\bin\Debug\net8.0\RoomBooking.runtimeconfig.json
+X:\IV курс\МДК.02.02 ИСРПО\RoomBooking\RoomBooking\bin\Debug\net8.0\RoomBooking.dll
+X:\IV курс\МДК.02.02 ИСРПО\RoomBooking\RoomBooking\bin\Debug\net8.0\RoomBooking.pdb
+X:\IV курс\МДК.02.02 ИСРПО\RoomBooking\RoomBooking\obj\Debug\net8.0\RoomBooking.GeneratedMSBuildEditorConfig.editorconfig
+X:\IV курс\МДК.02.02 ИСРПО\RoomBooking\RoomBooking\obj\Debug\net8.0\RoomBooking.AssemblyInfoInputs.cache
+X:\IV курс\МДК.02.02 ИСРПО\RoomBooking\RoomBooking\obj\Debug\net8.0\RoomBooking.AssemblyInfo.cs
+X:\IV курс\МДК.02.02 ИСРПО\RoomBooking\RoomBooking\obj\Debug\net8.0\RoomBooking.csproj.CoreCompileInputs.cache
+X:\IV курс\МДК.02.02 ИСРПО\RoomBooking\RoomBooking\obj\Debug\net8.0\RoomBooking.dll
+X:\IV курс\МДК.02.02 ИСРПО\RoomBooking\RoomBooking\obj\Debug\net8.0\refint\RoomBooking.dll
+X:\IV курс\МДК.02.02 ИСРПО\RoomBooking\RoomBooking\obj\Debug\net8.0\RoomBooking.pdb
+X:\IV курс\МДК.02.02 ИСРПО\RoomBooking\RoomBooking\obj\Debug\net8.0\RoomBooking.genruntimeconfig.cache
+X:\IV курс\МДК.02.02 ИСРПО\RoomBooking\RoomBooking\obj\Debug\net8.0\ref\RoomBooking.dll
