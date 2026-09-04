@@ -12,3 +12,10 @@ X:\IV курс\МДК.02.02 ИСРПО\RoomBooking\RoomBooking\obj\Debug\net8.0\
 X:\IV курс\МДК.02.02 ИСРПО\RoomBooking\RoomBooking\obj\Debug\net8.0\RoomBooking.pdb
 X:\IV курс\МДК.02.02 ИСРПО\RoomBooking\RoomBooking\obj\Debug\net8.0\RoomBooking.genruntimeconfig.cache
 X:\IV курс\МДК.02.02 ИСРПО\RoomBooking\RoomBooking\obj\Debug\net8.0\ref\RoomBooking.dll
+X:\IV курс\МДК.02.02 ИСРПО\RoomBooking\RoomBooking\bin\Debug\net8.0\RoomBooking.Data.dll
+X:\IV курс\МДК.02.02 ИСРПО\RoomBooking\RoomBooking\bin\Debug\net8.0\RoomBooking.Logic.dll
+X:\IV курс\МДК.02.02 ИСРПО\RoomBooking\RoomBooking\bin\Debug\net8.0\RoomBooking.Logic.pdb
+X:\IV курс\МДК.02.02 ИСРПО\RoomBooking\RoomBooking\bin\Debug\net8.0\RoomBooking.Data.pdb
+X:\IV курс\МДК.02.02 ИСРПО\RoomBooking\RoomBooking\obj\Debug\net8.0\RoomBooking.csproj.AssemblyReference.cache
+X:\IV курс\МДК.02.02 ИСРПО\RoomBooking\RoomBooking\obj\Debug\net8.0\RoomBooking.sourcelink.json
+X:\IV курс\МДК.02.02 ИСРПО\RoomBooking\RoomBooking\obj\Debug\net8.0\RoomBook.A9C3E834.Up2Date
