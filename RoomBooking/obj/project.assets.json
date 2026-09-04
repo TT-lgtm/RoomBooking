@@ -15,6 +15,9 @@
       "RoomBooking.Logic/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "RoomBooking.Data": "1.0.0"
+        },
         "compile": {
           "bin/placeholder/RoomBooking.Logic.dll": {}
         },

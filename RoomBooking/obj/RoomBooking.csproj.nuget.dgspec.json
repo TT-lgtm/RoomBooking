@@ -98,7 +98,11 @@
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "X:\\IV курс\\МДК.02.02 ИСРПО\\RoomBooking\\RoomBooking.Data\\RoomBooking.Data.csproj": {
+                "projectPath": "X:\\IV курс\\МДК.02.02 ИСРПО\\RoomBooking\\RoomBooking.Data\\RoomBooking.Data.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
