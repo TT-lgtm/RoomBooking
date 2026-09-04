@@ -7,14 +7,30 @@
   "targets": {
     ".NETCoreApp,Version=v8.0": {
       "RoomBooking.Logic/1.0.0": {
+        "dependencies": {
+          "RoomBooking.Data": "1.0.0"
+        },
         "runtime": {
           "RoomBooking.Logic.dll": {}
+        }
+      },
+      "RoomBooking.Data/1.0.0": {
+        "runtime": {
+          "RoomBooking.Data.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       }
     }
   },
   "libraries": {
     "RoomBooking.Logic/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "RoomBooking.Data/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
