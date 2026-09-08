@@ -10,7 +10,3 @@ X:\IV курс\МДК.02.02 ИСРПО\RoomBooking\RoomBooking.Logic\obj\Debug\n
 X:\IV курс\МДК.02.02 ИСРПО\RoomBooking\RoomBooking.Logic\obj\Debug\net8.0\refint\RoomBooking.Logic.dll
 X:\IV курс\МДК.02.02 ИСРПО\RoomBooking\RoomBooking.Logic\obj\Debug\net8.0\RoomBooking.Logic.pdb
 X:\IV курс\МДК.02.02 ИСРПО\RoomBooking\RoomBooking.Logic\obj\Debug\net8.0\ref\RoomBooking.Logic.dll
-X:\IV курс\МДК.02.02 ИСРПО\RoomBooking\RoomBooking.Logic\bin\Debug\net8.0\RoomBooking.Data.dll
-X:\IV курс\МДК.02.02 ИСРПО\RoomBooking\RoomBooking.Logic\bin\Debug\net8.0\RoomBooking.Data.pdb
-X:\IV курс\МДК.02.02 ИСРПО\RoomBooking\RoomBooking.Logic\obj\Debug\net8.0\RoomBooking.Logic.csproj.AssemblyReference.cache
-X:\IV курс\МДК.02.02 ИСРПО\RoomBooking\RoomBooking.Logic\obj\Debug\net8.0\RoomBook.57D9E5E5.Up2Date
