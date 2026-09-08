@@ -42,8 +42,7 @@
               "RelativeToolTip": "RoomBooking.Logic\\BookingService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-04T08:04:47.456Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-04T08:04:47.456Z"
             },
             {
               "$type": "Document",
@@ -68,8 +67,7 @@
               "RelativeToolTip": "RoomBooking.Data\\Booking.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-04T07:52:39.828Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-04T07:52:39.828Z"
             },
             {
               "$type": "Document",
@@ -81,8 +79,7 @@
               "RelativeToolTip": "RoomBooking.Data\\RoomBooking.Data.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-09-04T07:29:25.118Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-04T07:29:25.118Z"
             },
             {
               "$type": "Document",
@@ -94,8 +91,7 @@
               "RelativeToolTip": "RoomBooking\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-04T06:29:22.015Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-04T06:29:22.015Z"
             }
           ]
         }
