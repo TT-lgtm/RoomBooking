@@ -4,10 +4,11 @@ using System.Linq;
 using System.Net.Sockets;
 using System.Text;
 using System.Threading.Tasks;
+using RoomBooking.Logic;
 
 namespace RoomBooking.Data
 {
-    public class BookingRepository
+    public class BookingRepository : IBookingRepository
     {
         private readonly List<Booking> _items = new()
         {

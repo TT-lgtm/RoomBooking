@@ -3,24 +3,32 @@
   "WorkspaceRootPath": "X:\\IV \u043A\u0443\u0440\u0441\\\u041C\u0414\u041A.02.02 \u0418\u0421\u0420\u041F\u041E\\RoomBooking\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{09733B55-464E-4AB4-840E-88283707A738}|RoomBooking.Data\\RoomBooking.Data.csproj|x:\\iv \u043A\u0443\u0440\u0441\\\u043C\u0434\u043A.02.02 \u0438\u0441\u0440\u043F\u043E\\roombooking\\roombooking.data\\demobookingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09733B55-464E-4AB4-840E-88283707A738}|RoomBooking.Data\\RoomBooking.Data.csproj|solutionrelative:roombooking.data\\demobookingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{09733B55-464E-4AB4-840E-88283707A738}|RoomBooking.Data\\RoomBooking.Data.csproj|x:\\iv \u043A\u0443\u0440\u0441\\\u043C\u0434\u043A.02.02 \u0438\u0441\u0440\u043F\u043E\\roombooking\\roombooking.data\\bookingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{09733B55-464E-4AB4-840E-88283707A738}|RoomBooking.Data\\RoomBooking.Data.csproj|solutionrelative:roombooking.data\\bookingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B937EB21-215B-422F-A497-BEC076692BF3}|RoomBooking\\RoomBooking.csproj|x:\\iv \u043A\u0443\u0440\u0441\\\u043C\u0434\u043A.02.02 \u0438\u0441\u0440\u043F\u043E\\roombooking\\roombooking\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B937EB21-215B-422F-A497-BEC076692BF3}|RoomBooking\\RoomBooking.csproj|solutionrelative:roombooking\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BF6A5A9C-487A-42CF-9DB8-7DC1CE18D273}|RoomBooking.Logic\\RoomBooking.Logic.csproj|x:\\iv \u043A\u0443\u0440\u0441\\\u043C\u0434\u043A.02.02 \u0438\u0441\u0440\u043F\u043E\\roombooking\\roombooking.logic\\ibookingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF6A5A9C-487A-42CF-9DB8-7DC1CE18D273}|RoomBooking.Logic\\RoomBooking.Logic.csproj|solutionrelative:roombooking.logic\\ibookingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BF6A5A9C-487A-42CF-9DB8-7DC1CE18D273}|RoomBooking.Logic\\RoomBooking.Logic.csproj|x:\\iv \u043A\u0443\u0440\u0441\\\u043C\u0434\u043A.02.02 \u0438\u0441\u0440\u043F\u043E\\roombooking\\roombooking.logic\\bookingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BF6A5A9C-487A-42CF-9DB8-7DC1CE18D273}|RoomBooking.Logic\\RoomBooking.Logic.csproj|solutionrelative:roombooking.logic\\bookingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{09733B55-464E-4AB4-840E-88283707A738}|RoomBooking.Data\\RoomBooking.Data.csproj|x:\\iv \u043A\u0443\u0440\u0441\\\u043C\u0434\u043A.02.02 \u0438\u0441\u0440\u043F\u043E\\roombooking\\roombooking.data\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{09733B55-464E-4AB4-840E-88283707A738}|RoomBooking.Data\\RoomBooking.Data.csproj|solutionrelative:roombooking.data\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BF6A5A9C-487A-42CF-9DB8-7DC1CE18D273}|RoomBooking.Logic\\RoomBooking.Logic.csproj|x:\\iv \u043A\u0443\u0440\u0441\\\u043C\u0434\u043A.02.02 \u0438\u0441\u0440\u043F\u043E\\roombooking\\roombooking.logic\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF6A5A9C-487A-42CF-9DB8-7DC1CE18D273}|RoomBooking.Logic\\RoomBooking.Logic.csproj|solutionrelative:roombooking.logic\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{09733B55-464E-4AB4-840E-88283707A738}|RoomBooking.Data\\RoomBooking.Data.csproj|x:\\iv \u043A\u0443\u0440\u0441\\\u043C\u0434\u043A.02.02 \u0438\u0441\u0440\u043F\u043E\\roombooking\\roombooking.data\\roombooking.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{09733B55-464E-4AB4-840E-88283707A738}|RoomBooking.Data\\RoomBooking.Data.csproj|solutionrelative:roombooking.data\\roombooking.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B937EB21-215B-422F-A497-BEC076692BF3}|RoomBooking\\RoomBooking.csproj|x:\\iv \u043A\u0443\u0440\u0441\\\u043C\u0434\u043A.02.02 \u0438\u0441\u0440\u043F\u043E\\roombooking\\roombooking\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B937EB21-215B-422F-A497-BEC076692BF3}|RoomBooking\\RoomBooking.csproj|solutionrelative:roombooking\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,50 +38,76 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DemoBookingRepository.cs",
+              "DocumentMoniker": "X:\\IV \u043A\u0443\u0440\u0441\\\u041C\u0414\u041A.02.02 \u0418\u0421\u0420\u041F\u041E\\RoomBooking\\RoomBooking.Data\\DemoBookingRepository.cs",
+              "RelativeDocumentMoniker": "RoomBooking.Data\\DemoBookingRepository.cs",
+              "ToolTip": "X:\\IV \u043A\u0443\u0440\u0441\\\u041C\u0414\u041A.02.02 \u0418\u0421\u0420\u041F\u041E\\RoomBooking\\RoomBooking.Data\\DemoBookingRepository.cs",
+              "RelativeToolTip": "RoomBooking.Data\\DemoBookingRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-08T12:42:44.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "IBookingRepository.cs",
+              "DocumentMoniker": "X:\\IV \u043A\u0443\u0440\u0441\\\u041C\u0414\u041A.02.02 \u0418\u0421\u0420\u041F\u041E\\RoomBooking\\RoomBooking.Logic\\IBookingRepository.cs",
+              "RelativeDocumentMoniker": "RoomBooking.Logic\\IBookingRepository.cs",
+              "ToolTip": "X:\\IV \u043A\u0443\u0440\u0441\\\u041C\u0414\u041A.02.02 \u0418\u0421\u0420\u041F\u041E\\RoomBooking\\RoomBooking.Logic\\IBookingRepository.cs",
+              "RelativeToolTip": "RoomBooking.Logic\\IBookingRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-08T12:23:30.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Booking.cs",
+              "DocumentMoniker": "X:\\IV \u043A\u0443\u0440\u0441\\\u041C\u0414\u041A.02.02 \u0418\u0421\u0420\u041F\u041E\\RoomBooking\\RoomBooking.Logic\\Booking.cs",
+              "RelativeDocumentMoniker": "RoomBooking.Logic\\Booking.cs",
+              "ToolTip": "X:\\IV \u043A\u0443\u0440\u0441\\\u041C\u0414\u041A.02.02 \u0418\u0421\u0420\u041F\u041E\\RoomBooking\\RoomBooking.Logic\\Booking.cs",
+              "RelativeToolTip": "RoomBooking.Logic\\Booking.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-08T12:20:18.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "BookingService.cs",
               "DocumentMoniker": "X:\\IV \u043A\u0443\u0440\u0441\\\u041C\u0414\u041A.02.02 \u0418\u0421\u0420\u041F\u041E\\RoomBooking\\RoomBooking.Logic\\BookingService.cs",
               "RelativeDocumentMoniker": "RoomBooking.Logic\\BookingService.cs",
               "ToolTip": "X:\\IV \u043A\u0443\u0440\u0441\\\u041C\u0414\u041A.02.02 \u0418\u0421\u0420\u041F\u041E\\RoomBooking\\RoomBooking.Logic\\BookingService.cs",
               "RelativeToolTip": "RoomBooking.Logic\\BookingService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-04T08:04:47.456Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "BookingRepository.cs",
               "DocumentMoniker": "X:\\IV \u043A\u0443\u0440\u0441\\\u041C\u0414\u041A.02.02 \u0418\u0421\u0420\u041F\u041E\\RoomBooking\\RoomBooking.Data\\BookingRepository.cs",
               "RelativeDocumentMoniker": "RoomBooking.Data\\BookingRepository.cs",
               "ToolTip": "X:\\IV \u043A\u0443\u0440\u0441\\\u041C\u0414\u041A.02.02 \u0418\u0421\u0420\u041F\u041E\\RoomBooking\\RoomBooking.Data\\BookingRepository.cs",
               "RelativeToolTip": "RoomBooking.Data\\BookingRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-04T07:54:07.032Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Booking.cs",
-              "DocumentMoniker": "X:\\IV \u043A\u0443\u0440\u0441\\\u041C\u0414\u041A.02.02 \u0418\u0421\u0420\u041F\u041E\\RoomBooking\\RoomBooking.Data\\Booking.cs",
-              "RelativeDocumentMoniker": "RoomBooking.Data\\Booking.cs",
-              "ToolTip": "X:\\IV \u043A\u0443\u0440\u0441\\\u041C\u0414\u041A.02.02 \u0418\u0421\u0420\u041F\u041E\\RoomBooking\\RoomBooking.Data\\Booking.cs",
-              "RelativeToolTip": "RoomBooking.Data\\Booking.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-04T07:52:39.828Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "RoomBooking.Data.csproj",
               "DocumentMoniker": "X:\\IV \u043A\u0443\u0440\u0441\\\u041C\u0414\u041A.02.02 \u0418\u0421\u0420\u041F\u041E\\RoomBooking\\RoomBooking.Data\\RoomBooking.Data.csproj",
               "RelativeDocumentMoniker": "RoomBooking.Data\\RoomBooking.Data.csproj",
@@ -86,13 +120,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "X:\\IV \u043A\u0443\u0440\u0441\\\u041C\u0414\u041A.02.02 \u0418\u0421\u0420\u041F\u041E\\RoomBooking\\RoomBooking\\Program.cs",
               "RelativeDocumentMoniker": "RoomBooking\\Program.cs",
               "ToolTip": "X:\\IV \u043A\u0443\u0440\u0441\\\u041C\u0414\u041A.02.02 \u0418\u0421\u0420\u041F\u041E\\RoomBooking\\RoomBooking\\Program.cs",
               "RelativeToolTip": "RoomBooking\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-04T06:29:22.015Z",
               "EditorCaption": ""

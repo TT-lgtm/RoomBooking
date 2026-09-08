@@ -16,6 +16,9 @@
         }
       },
       "RoomBooking.Data/1.0.0": {
+        "dependencies": {
+          "RoomBooking.Logic": "1.0.0"
+        },
         "runtime": {
           "RoomBooking.Data.dll": {
             "assemblyVersion": "1.0.0.0",
@@ -24,9 +27,6 @@
         }
       },
       "RoomBooking.Logic/1.0.0": {
-        "dependencies": {
-          "RoomBooking.Data": "1.0.0"
-        },
         "runtime": {
           "RoomBooking.Logic.dll": {
             "assemblyVersion": "1.0.0.0",

@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net8.0": {}
+    "net8.0": {
+      "RoomBooking.Logic/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/RoomBooking.Logic.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/RoomBooking.Logic.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "RoomBooking.Logic/1.0.0": {
+      "type": "project",
+      "path": "../RoomBooking.Logic/RoomBooking.Logic.csproj",
+      "msbuildProject": "../RoomBooking.Logic/RoomBooking.Logic.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net8.0": []
+    "net8.0": [
+      "RoomBooking.Logic >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\2496-23\\.nuget\\packages\\": {},
@@ -39,7 +58,11 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "X:\\IV курс\\МДК.02.02 ИСРПО\\RoomBooking\\RoomBooking.Logic\\RoomBooking.Logic.csproj": {
+              "projectPath": "X:\\IV курс\\МДК.02.02 ИСРПО\\RoomBooking\\RoomBooking.Logic\\RoomBooking.Logic.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
